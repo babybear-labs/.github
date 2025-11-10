@@ -7,7 +7,7 @@ Educational Crypto Projects.
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
   - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
-  - [gkr-proof-recursion] - Recursive Plonk + GKR Proof Compression
+  - [gkr-proof-recursion] - Recursive GKR Proof Compression
   - [ZK Documentation] - ZK learning documentation
   - [tokenized vault] - Yield-bearing smart contract
   - [zkml] - ZK proof system for handwriting/signature verification
@@ -22,7 +22,7 @@ Educational Crypto Projects.
 [tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
 [zkml]: https://github.com/babybear-labs/ZKML-Bootcamp
 [zkbench]: https://github.com/babybear-labs/benchmark
-[gkr]: https://github.com/babybear-labs/GKR-proof-recursion
+[gkr-proof-recursion]: https://github.com/babybear-labs/GKR
 [gvm]: https://github.com/babybear-labs/gvm
 [poseidon2]: https://github.com/babybear-labs/poseidon2
 [zkguard]: https://github.com/ziemen4/zkguard
