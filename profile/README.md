@@ -13,8 +13,10 @@ Educational Crypto Projects.
   - [zkml] - ZK proof system for handwriting/signature verification
   - [gvm] - GKR based VM
   - [poseidon2] - Poseidon2 hash function
+  - [sumcheck] - ZKP protocol
   - [chain rs] - Experimental blockchain node built from scratch
 
+[sumcheck]: https://github.com/babybear-labs/sumcheck
 [chain rs]: https://github.com/MuhtasimTanmoy/chain-rs
 [ZK Documentation]: https://github.com/MuhtasimTanmoy/zk
 [tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
