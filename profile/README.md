@@ -6,13 +6,17 @@ Educational Crypto Projects.
 
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
-  - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy.
+  - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
+  - [gkr] - Recursive GKR Proof Compression
+  - [ZK Documentation] - ZK learning documentation
   - [tokenized vault] - Yield-bearing smart contract
   - [zkml] - ZK proof system for handwriting/signature verification
-  - [gkr] - Recursive GKR Proof Compression
   - [gvm] - GKR based VM
   - [poseidon2] - Poseidon2 hash function
-  
+  - [chain rs] - Experimental blockchain node built from scratch
+
+[chain rs]: https://github.com/MuhtasimTanmoy/chain-rs
+[ZK Documentation]: https://github.com/MuhtasimTanmoy/zk
 [tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
 [zkml]: https://github.com/babybear-labs/ZKML-Bootcamp
 [zkbench]: https://github.com/babybear-labs/benchmark
