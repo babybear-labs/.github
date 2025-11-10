@@ -5,10 +5,10 @@
 Educational Crypto Projects.
 
 #### Projects
-  - [zkbench] - Benchmark of ZKVMs and Proving Schemes - `zk bootcamp`
-  - [tokenized vault] - Yield-bearing smart contract - `advanced solidity bootcamp`
-  - [zkml] - ZK proof system for handwriting/signature verification - `zkml bootcamp`
-  - [gkr] - Recursive GKR Proof Compression - `expander bootcamp bounty`
+  - [zkbench] - Benchmark of ZKVMs and Proving Schemes
+  - [tokenized vault] - Yield-bearing smart contract
+  - [zkml] - ZK proof system for handwriting/signature verification
+  - [gkr] - Recursive GKR Proof Compression
   - [gvm] - GKR based VM
   - [poseidon2] - Poseidon2 hash function
   
