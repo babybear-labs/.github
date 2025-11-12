@@ -8,7 +8,7 @@ Educational Crypto Projects.
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
   - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
   - [gkr-proof-recursion] - Recursive GKR Proof Compression
-  - [ZK Documentation] - ZK learning documentation
+  - [zk doc] - ZK learning documentation
   - [tokenized vault] - Yield-bearing smart contract
   - [zkml] - ZK proof system for handwriting/signature verification
   - [gvm] - GKR based VM
