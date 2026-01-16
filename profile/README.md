@@ -6,6 +6,7 @@ Educational Crypto Projects.
 
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
+  - [provekit] - Client Side Proving, Noir forntend + R1CS + Whir + Sumcheck
   - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
   - [gkr-proof-recursion] - Recursive GKR Proof Compression
   - [zk doc] - ZK learning documentation
@@ -19,6 +20,7 @@ Educational Crypto Projects.
   - [folding-bench] - Folding scheme study, bench
  
 [sumcheck]: https://github.com/babybear-labs/sumcheck
+[provekit]: https://github.com/muhtasimtanmoy/provekit
 [chain rs]: https://github.com/MuhtasimTanmoy/chain-rs
 [zk doc]: https://github.com/MuhtasimTanmoy/zk
 [tokenized vault]: https://github.com/solidity-bootcamp-group-5/final-project
