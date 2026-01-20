@@ -6,7 +6,7 @@ Educational Crypto Projects.
 
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
-  - [provekit] - Client Side Proving, Noir forntend + R1CS + Whir + Sumcheck
+  - [provekit] - Client Side Proving, Noir frontend + R1CS + Whir + Sumcheck
   - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
   - [gkr-proof-recursion] - Recursive GKR Proof Compression
   - [zk doc] - ZK learning documentation
