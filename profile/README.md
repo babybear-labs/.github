@@ -8,14 +8,14 @@ Educational Crypto Projects.
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
   - [provekit] - Client Side Proving, Noir frontend + R1CS + Whir + Sumcheck
   - [zkguard] - Enforce policies on blockchain transactions before execution, without revealing the policy
-  - [gkr-proof-recursion] - Recursive GKR Proof Compression
+  - [sumcheck] - Interactive cryptographic proof system
   - [zk doc] - ZK learning documentation
+  - [chain rs] - Experimental blockchain node built from scratch
+  - [gkr-proof-recursion] - Recursive GKR Proof Compression
   - [tokenized vault] - Yield-bearing smart contract
   - [zkml] - ZK proof system for handwriting/signature verification
-  - [gvm] - GKR based VM
+  - [gvm] - GKR based ZKVM
   - [poseidon2] - Poseidon2 hash function
-  - [sumcheck] - ZKP protocol
-  - [chain rs] - Experimental blockchain node built from scratch
   - [simd-gpu] - simd, gpu experiments
   - [folding-bench] - Folding scheme study, bench
  
