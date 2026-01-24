@@ -2,7 +2,6 @@
 
 𝑝 = 15 * 2^27 + 1
 
-Educational Crypto Projects.
 
 #### Projects
   - [zkbench] - Benchmark of ZKVMs and Proving Schemes
