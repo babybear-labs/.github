@@ -12,7 +12,7 @@
   - [tokenized vault] - Yield-bearing smart contract
   - [zkml] - ZK proof system for handwriting/signature verification
   - [gvm] - GKR based ZKVM
-  - [provekit] - Client Side Proving, Noir frontend + R1CS + Whir + Sumcheck - Forked from worldfoundation
+  - [provekit] - Client Side Proving, Noir frontend + R1CS + Whir + Sumcheck - Forked from world foundation
   - [sumcheck] - Interactive cryptographic proof system
   - [poseidon2] - Poseidon2 hash function
   - [simd-gpu] - simd, gpu experiments
