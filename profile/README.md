@@ -32,3 +32,5 @@
 [simd-gpu]: https://github.com/babybear-labs/simd-gpu
 [folding-bench]: https://github.com/babybear-labs/folding-bench
 
+Maintainer
+- [Muhtasim Ulfat](https://github.com/muhtasimTanmoy/)
