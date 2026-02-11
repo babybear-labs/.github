@@ -33,4 +33,5 @@
 [folding-bench]: https://github.com/babybear-labs/folding-bench
 
 Maintainer
-- [Muhtasim Ulfat](https://github.com/muhtasimTanmoy/)
+- [Muhtasim Ulfat](https://github.com/muhtasimTanmoy)
+- Question or Collaboration? Reach out via [x](https://x.com/mtanm0y) or [mail](mailto:mtanmoy5086@gmail.com)
